@@ -1,5 +1,5 @@
 {
-    "name": "lravel01/lravel01",
+    "name": "lravel01",
     "type": "library",
     "description": "This is basic testing file ",
     "keywords": ["log","logging"],
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {
-            "lravel01/lravel01": "src" 
+            "lravel01": "src" 
         }
     }
 }
