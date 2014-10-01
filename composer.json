@@ -18,9 +18,9 @@
     }, 
     "autoload": {
         "psr-0": {
-            "lravel01/lravel01": "src" 
+            "lravel01/lravel01 Ddd": "src" 
         }
     }
 } 
 
-ddd
+ 
