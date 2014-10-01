@@ -1,3 +1,24 @@
 {
-    "name": "php5"
+    "name": "lravel01/lravel01",
+    "type": "library",
+    "description": "This is basic testing file ",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/SumitInwizarst/laravel01",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sumit Jaiswal",
+            "email": "sumit@inwizards.com",
+            "homepage": "http://inwizards.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "lravel01": "src"
+        }
+    }
 }
